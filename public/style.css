@@ -1,0 +1,80 @@
+.heading1
+{
+  margin-left: 400px;
+  color: rgb(49, 49, 219);
+  font-family:Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+
+  font-size: 30px;
+}
+label{
+    font-size:15px;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif
+
+}
+.td1{
+    color: white;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.td2
+{
+    color:white;
+
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.ins
+{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif
+
+
+}
+
+#b
+{
+    font-family:Arial, Helvetica, sans-serif;
+    width:15px;
+    height:15px;
+}
+#hobbies
+{
+
+    width:15px;
+    font-family:Arial, Helvetica, sans-serif;
+    height:15px;
+}
+
+.buttons
+{
+
+    margin-left:300px;
+    padding-bottom: 20px;
+
+}
+.h{
+    color:rgb(8, 155, 8);
+    font-size: 40px;
+}
+.a{
+    color:purple;
+
+}
+.c
+{
+    text-decoration: none;
+    color:black;
+}
+.ab{
+    height:30px;
+    width:70px;
+}
+.form1
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px; 
+    background-color:rgb(79, 79, 255);
+}
